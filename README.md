@@ -62,3 +62,14 @@ This dataset is ideal for various statistical analysis and machine learning task
     * **Score:** Use demographics to predict the `Score Avg` (Regression).
     * **Pass/Fail Status:** Use all factors to predict `Pass/Fail` (Classification).
 4.  **Feature Importance:** Determine which factors (e.g., parental education, test prep) have the greatest impact on student success.
+
+---
+
+## 🔍 How to Use
+
+To explore the dataset:
+1. Start with `Main.csv` for raw data.
+2. Use the summary tables for quick insights.
+3. Apply your own analysis or modeling using Python, R, or Excel.
+
+Feel free to contribute with new visualizations or insights!
